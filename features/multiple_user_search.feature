@@ -10,6 +10,7 @@ Feature: Multiple User Search
         Then option <category_name> by text from dropdown having id "category" should be selected
         Then I close browser
         
+        
         Examples:
           | category_id | page_title | category_name |
           | 2 | "Alat Musik Bekas & Baru - Jualo" | "Alat Musik " |
