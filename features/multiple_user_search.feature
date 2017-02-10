@@ -13,6 +13,5 @@ Feature: Multiple User Search
         Examples:
           | category_id | page_title | category_name |
           | 2 | "Alat Musik Bekas & Baru - Jualo" | "Alat Musik " |
-          | 5 | "Buku Bekas dan Baru - Jualo" | "Buku " |
           
   
